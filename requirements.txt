@@ -1,0 +1,7 @@
+streamlit>=1.37
+pypdf>=4.0
+langdetect>=1.0.9
+requests>=2.31
+Pillow>=10.0   # uniquement pour make_icons.py
+psycopg[binary]
+psycopg2-binary
